@@ -1,4 +1,4 @@
-name: Deploy Scorpio App
+name: Deploy Scorpio App 
 env:
   DEFAULT_LOCATION: northeurope
   SCORPIO_ALIAS: zbpscorpio
