@@ -1,4 +1,4 @@
-# This workflow will deploy the front end component of the application.
+# This workflow will deploy the front end component of the application. 
 # To get this workflow to trigger you need to edit one of the files in the Sirmione-Web project.
 # to change the name of the resource edit the ALIAS below
 
